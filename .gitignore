@@ -30,3 +30,9 @@ src/useFlow.js
 src/useIsBefore.js
 src/useIsMedia.js
 src/useTools.js
+
+# vscode
+/.vscode
+
+# npm
+/package-lock.json
