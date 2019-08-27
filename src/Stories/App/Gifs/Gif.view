@@ -1,0 +1,8 @@
+Gif View
+flow together
+    Avatar Image
+        display inline-block
+        height 181
+        source <gif
+        width 250
+        async true

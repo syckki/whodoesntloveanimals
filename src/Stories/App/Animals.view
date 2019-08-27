@@ -1,0 +1,8 @@
+Animals View
+flow together
+  List
+    onClick <
+    onClickUseDiv true
+    from <
+    Animal
+      key item.id  

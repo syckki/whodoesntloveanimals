@@ -1,0 +1,15 @@
+App View
+flow together
+  Horizontal
+  alignItems flex-start
+  flexBasis auto
+  flexGrow 1
+  flexShrink 1
+  justifyContent start
+  borderWidth 1px
+  borderStyle solid
+  borderColor #e6e6e6
+    Animals
+    selectedAnimal <
+    Gifs
+    searchGifs <

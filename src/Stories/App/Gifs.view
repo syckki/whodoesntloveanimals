@@ -1,0 +1,18 @@
+Gifs View
+flow together
+    Horizontal
+    borderWidth 1px
+    borderStyle solid
+    borderColor #e6e6e6
+    flexShrink 1
+      List
+      flexDirection row
+      alignItems flex-start
+      flexBasis auto
+      flexGrow 1
+      flexShrink 1
+      flexWrap wrap
+      justifyContent start
+        from <
+        Gif
+          key item.id

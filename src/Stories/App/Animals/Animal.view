@@ -1,0 +1,29 @@
+Animal View
+flow together
+    Horizontal
+    alignItems center
+    borderTopWidth 1px
+    borderTopStyle solid
+    borderTopColor #e6e6e6
+    marginLeft 10
+    marginRight 10
+    marginTop 10
+    paddingLeft 10
+    paddingRight 10
+    paddingTop 10
+    backgroundColor #fff
+    onMouseEnter <
+    onMouseLeave <
+    when <isHighlighted
+    backgroundColor #d8cff5
+        Avatar Image
+            height 32
+            source <avatar
+            width 32
+            async true
+        Name Text
+            fontFamily Montserrat
+            fontSize 14
+            fontWeight 300
+            marginLeft 15
+            text <name
