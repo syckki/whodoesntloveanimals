@@ -32,7 +32,7 @@ src/useIsMedia.js
 src/useTools.js
 
 # vscode
-/.vscode
+#/.vscode
 
 # npm
 /package-lock.json
