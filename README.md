@@ -22,3 +22,6 @@ Runs curl -sS https://dl.yarnpkg.com/debian/pubkey.gpg | sudo apt-key add -<br>
     then runs sudo apt-get update && sudo apt-get install yarn<br>
 
 #beHappy ;)
+
+
+![alt text](https://github.com/deoxyshub/whodoesntloveanimals/blob/master/selfie.png)
