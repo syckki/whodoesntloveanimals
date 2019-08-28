@@ -14,7 +14,7 @@ Enjoys the app after running 'yarn start'<br>
 
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-### `What must I do to uso use-views and yarn?`
+### `What must I do to use use-views and yarn?`
 
 Runs npm install --global @viewstools/use<br>
 Runs curl -sS https://dl.yarnpkg.com/debian/pubkey.gpg | sudo apt-key add -<br>
